@@ -1,0 +1,6 @@
+eureka:
+  client:
+    enabled: false
+stubrunner:
+  ids-to-service-ids:
+    ws: weather
